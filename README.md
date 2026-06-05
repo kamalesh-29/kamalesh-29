@@ -17,7 +17,7 @@
 | 🎓 | B.Tech in Artificial Intelligence & Data Science |
 | ☁️ | AWS Certified Cloud Practitioner |
 | ❄️ | Snowflake · Oracle PL/SQL · Power BI Certified |
-| 📍 | Tamil Nadu, India |
+| 📍 | Trichy, Tamil Nadu, India |
 | 📊 | Passionate about Data Engineering, Analytics, AI & Cloud |
 | 🌱 | Always learning and building real-world projects |
 
