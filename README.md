@@ -123,9 +123,16 @@ Full-stack web application for task tracking, workflow management, and productiv
 ---
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamalesharumugam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamalesharumugam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-new-xi-azure.vercel.app)
-[![Email](https://img.shields.io/badge/Email-kamalesha38@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kamalesha38@gmail.com)
+<div >
+
+| Contact      | Details                                               |
+| ------------ | ----------------------------------------------------- |
+| 💼 LinkedIn  | https://linkedin.com/in/kamalesharumugam              |
+| 🌐 Portfolio | https://portfolio-new-xi-azure.vercel.app             |
+| 📧 Email     | [kamalesha38@gmail.com](mailto:kamalesha38@gmail.com) |
+| 💻 GitHub    | https://github.com/kamalesh-29                        |
+
+</div>
 
 ---
 
