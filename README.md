@@ -73,8 +73,7 @@ Full-stack productivity app with task tracking, priorities, and team workflows.
 - ❄️ Snowflake with Oracle PL/SQL & Power BI
 - 🤖 Generative AI Certification
 - 🪟 Microsoft Copilot Foundation
-- 🎓 NPTEL — Database Management Systems
-- 🎓 NPTEL — Competitive Programming
+- 🎓 NPTEL — Getting Started with Competitive Programming
 
 ---
 
